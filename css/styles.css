@@ -1,0 +1,120 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+/*****100% font is 90px/16 is 562.2% rem root size******/
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Montserrat Alternates', sans-serif;
+  color: seagreen;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: 20px auto 0 auto;
+  color: seagreen;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  width: 50px;
+  color: grey;
+  border-style: dashed;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+/**div class***/
+.topContainer {
+  background-color: #b5f1ff;
+  position: relative;
+  padding-top: 100px;
+  height: 653px;
+}
+
+/**div class***/
+.middleContainer {
+  background-color: #e1edf9;
+}
+
+/**div class***/
+.bottomContainer {}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 450px;
+  top: 50px;
+  bottom: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+  bottom: 300px;
+}
+
+.mePic {
+  width: 150px;
+  height: 150px;
+  margin: 35px auto 0 auto;
+}
+
+.codingPng {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+
+.algorithmPng {
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+.mountain {
+  height: 350px;
+}
+
+.contact-me {
+  background-color: #e1edf9;
+  margin-top: 40px;
+}
+
+.skill-row{
+  width: 50%;
+margin: 60px auto 60px auto;
+text-align: left;
+line-height: 2;
+}
+/*
+.code-skill{
+  clear: both;
+}
+*/
+
+.fullStack{
+  margin: auto auto 30px auto;
+  width: 30%;
+  line-height: 2;
+}
+
+.c{
+  margin-bottom: 200px;
+}
